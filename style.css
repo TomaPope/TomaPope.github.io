@@ -1,0 +1,14 @@
+@import url(https://fonts.googleapis.com/css?family=JetBrains+Mono);
+body {
+  background-color: #2b2e32;
+  font-family: "JetBrains Mono", cyrillic-ext;
+  color: white;
+}
+.center {
+  margin: 0;
+  position: absolute;
+  top: 10%;
+  left: 50%;
+  -ms-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+}
